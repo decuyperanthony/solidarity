@@ -1,0 +1,11 @@
+%syntax-version=1.0.0
+%project=solidarite
+
+tables 2020-04-27T16:37:20Z kevin <storck.kevin67@gmail.com> # Add table to db
+domain 2020-04-27T16:37:40Z kevin <storck.kevin67@gmail.com> # Add domain to db
+infoTEST 2020-04-27T16:38:36Z kevin <storck.kevin67@gmail.com> # Add info for test db
+TableMDP 2020-05-02T06:32:21Z kevin <storck.kevin67@gmail.com> # Stock info mail
+AlterSubscribe 2020-05-05T05:44:00Z kevin <storck.kevin67@gmail.com> # Alter user_subscribe_lesson Add status
+ColumnLikeLesson 2020-05-06T04:57:20Z kevin <storck.kevin67@gmail.com> # Like for lesson table
+RelationLikeLesson 2020-05-06T05:09:58Z kevin <storck.kevin67@gmail.com> # Relation like lesson
+ImgCatLike0 2020-05-15T03:13:45Z kevin <storck.kevin67@gmail.com> # Add image on Category and put Like on 0
