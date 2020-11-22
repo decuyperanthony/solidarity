@@ -1,7 +1,7 @@
 
 
 
-
+<img align="center" src=".github/img/solilogo.png" alt="Logo" width="auto" height="100">
 <h1 align="center">solidarity</h1>
 
 <div align="center">
